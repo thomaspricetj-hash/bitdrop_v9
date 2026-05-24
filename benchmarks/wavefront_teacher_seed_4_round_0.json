@@ -1,0 +1,9002 @@
+[
+  {
+    "cell": "C247",
+    "row": 0,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6746473782852527
+  },
+  {
+    "cell": "C56",
+    "row": 0,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.233512636242791
+  },
+  {
+    "cell": "C348",
+    "row": 0,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.15890465923627628
+  },
+  {
+    "cell": "C343",
+    "row": 0,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1963462982768895
+  },
+  {
+    "cell": "C161",
+    "row": 0,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.987090158040648
+  },
+  {
+    "cell": "C212",
+    "row": 0,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1402177381381944
+  },
+  {
+    "cell": "C388",
+    "row": 0,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0837730489836237
+  },
+  {
+    "cell": "C90",
+    "row": 0,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7648115387534737
+  },
+  {
+    "cell": "C170",
+    "row": 0,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.986239702896383
+  },
+  {
+    "cell": "C82",
+    "row": 0,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6000816829185651
+  },
+  {
+    "cell": "C349",
+    "row": 0,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.848252696459111
+  },
+  {
+    "cell": "C306",
+    "row": 0,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5150413481322775
+  },
+  {
+    "cell": "C490",
+    "row": 0,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0576334397708207
+  },
+  {
+    "cell": "C140",
+    "row": 0,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.24921193637074812
+  },
+  {
+    "cell": "C115",
+    "row": 0,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C449",
+    "row": 0,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.7671456317905685
+  },
+  {
+    "cell": "C396",
+    "row": 0,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7025451726630476
+  },
+  {
+    "cell": "C222",
+    "row": 0,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.223730855077193
+  },
+  {
+    "cell": "C38",
+    "row": 0,
+    "x_before": 30.0,
+    "x_after": 30.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5561308096067128
+  },
+  {
+    "cell": "C20",
+    "row": 0,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7492492699339394
+  },
+  {
+    "cell": "C22",
+    "row": 0,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.353289847935852
+  },
+  {
+    "cell": "C329",
+    "row": 0,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1944590004113462
+  },
+  {
+    "cell": "C232",
+    "row": 0,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6024894507113676
+  },
+  {
+    "cell": "C448",
+    "row": 0,
+    "x_before": 29.0,
+    "x_after": 29.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2678699676448706
+  },
+  {
+    "cell": "C437",
+    "row": 0,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4800487395081907
+  },
+  {
+    "cell": "C263",
+    "row": 0,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C253",
+    "row": 0,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.982766457942989
+  },
+  {
+    "cell": "C391",
+    "row": 0,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.49638966477912
+  },
+  {
+    "cell": "C54",
+    "row": 0,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117372509597729
+  },
+  {
+    "cell": "C322",
+    "row": 0,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8511899000148644
+  },
+  {
+    "cell": "C39",
+    "row": 1,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5270051152247232
+  },
+  {
+    "cell": "C177",
+    "row": 1,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.196678655573409
+  },
+  {
+    "cell": "C0",
+    "row": 1,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.35188745660217624
+  },
+  {
+    "cell": "C427",
+    "row": 1,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8471424425737224
+  },
+  {
+    "cell": "C161",
+    "row": 1,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.987090158040648
+  },
+  {
+    "cell": "C277",
+    "row": 1,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.392825239626579
+  },
+  {
+    "cell": "C481",
+    "row": 1,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6465625858750905
+  },
+  {
+    "cell": "C245",
+    "row": 1,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.279247445210528
+  },
+  {
+    "cell": "C381",
+    "row": 1,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6186899012346343
+  },
+  {
+    "cell": "C76",
+    "row": 1,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.931728730454037
+  },
+  {
+    "cell": "C208",
+    "row": 1,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0874300638299745
+  },
+  {
+    "cell": "C239",
+    "row": 1,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0616050745994277
+  },
+  {
+    "cell": "C487",
+    "row": 1,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6488821558510263
+  },
+  {
+    "cell": "C87",
+    "row": 1,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.026246884662475
+  },
+  {
+    "cell": "C482",
+    "row": 1,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.149370540099207
+  },
+  {
+    "cell": "C261",
+    "row": 1,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1213749283271373
+  },
+  {
+    "cell": "C213",
+    "row": 1,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.479172537483982
+  },
+  {
+    "cell": "C211",
+    "row": 1,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9514912327884195
+  },
+  {
+    "cell": "C272",
+    "row": 1,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6879957526552465
+  },
+  {
+    "cell": "C341",
+    "row": 1,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5482997506583693
+  },
+  {
+    "cell": "C85",
+    "row": 1,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1812226781137087
+  },
+  {
+    "cell": "C214",
+    "row": 1,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4358215873508144
+  },
+  {
+    "cell": "C315",
+    "row": 1,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.176563168998798
+  },
+  {
+    "cell": "C391",
+    "row": 1,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.49638966477912
+  },
+  {
+    "cell": "C131",
+    "row": 2,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0106959498452797
+  },
+  {
+    "cell": "C157",
+    "row": 2,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6250543656479822
+  },
+  {
+    "cell": "C105",
+    "row": 2,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6276877557529101
+  },
+  {
+    "cell": "C219",
+    "row": 2,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1957954363805552
+  },
+  {
+    "cell": "C365",
+    "row": 2,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1436767926798512
+  },
+  {
+    "cell": "C70",
+    "row": 2,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6258175172381157
+  },
+  {
+    "cell": "C158",
+    "row": 2,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.703593116559025
+  },
+  {
+    "cell": "C433",
+    "row": 2,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4309226880850883
+  },
+  {
+    "cell": "C117",
+    "row": 2,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3158331180044884
+  },
+  {
+    "cell": "C381",
+    "row": 2,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6186899012346343
+  },
+  {
+    "cell": "C392",
+    "row": 2,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4861888296094214
+  },
+  {
+    "cell": "C250",
+    "row": 2,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1588801680281255
+  },
+  {
+    "cell": "C434",
+    "row": 2,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.16805184136181361
+  },
+  {
+    "cell": "C257",
+    "row": 2,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6969509867198544
+  },
+  {
+    "cell": "C237",
+    "row": 2,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.444473732561045
+  },
+  {
+    "cell": "C385",
+    "row": 2,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4169712219014313
+  },
+  {
+    "cell": "C242",
+    "row": 2,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.686601052644491
+  },
+  {
+    "cell": "C325",
+    "row": 2,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0227993919508886
+  },
+  {
+    "cell": "C239",
+    "row": 2,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0616050745994277
+  },
+  {
+    "cell": "C353",
+    "row": 2,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.930630999687033
+  },
+  {
+    "cell": "C240",
+    "row": 2,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.43616605704302813
+  },
+  {
+    "cell": "C442",
+    "row": 2,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.031541088756168456
+  },
+  {
+    "cell": "C297",
+    "row": 2,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4204315075216956
+  },
+  {
+    "cell": "C377",
+    "row": 2,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.749878240106713
+  },
+  {
+    "cell": "C287",
+    "row": 2,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.41503203726595694
+  },
+  {
+    "cell": "C23",
+    "row": 3,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5743554400696608
+  },
+  {
+    "cell": "C84",
+    "row": 3,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4858674408885788
+  },
+  {
+    "cell": "C184",
+    "row": 3,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0545253815195381
+  },
+  {
+    "cell": "C177",
+    "row": 3,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.196678655573409
+  },
+  {
+    "cell": "C366",
+    "row": 3,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4240828467886733
+  },
+  {
+    "cell": "C83",
+    "row": 3,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.211689722900701
+  },
+  {
+    "cell": "C343",
+    "row": 3,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1963462982768895
+  },
+  {
+    "cell": "C386",
+    "row": 3,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.341138917823522
+  },
+  {
+    "cell": "C203",
+    "row": 3,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8188514492818939
+  },
+  {
+    "cell": "C268",
+    "row": 3,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8560431056618878
+  },
+  {
+    "cell": "C471",
+    "row": 3,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8251234581212584
+  },
+  {
+    "cell": "C183",
+    "row": 3,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.863981889062259
+  },
+  {
+    "cell": "C55",
+    "row": 3,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7600825575813102
+  },
+  {
+    "cell": "C95",
+    "row": 3,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C69",
+    "row": 3,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2485630303260895
+  },
+  {
+    "cell": "C64",
+    "row": 3,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3634075575968096
+  },
+  {
+    "cell": "C335",
+    "row": 3,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1617730429397795
+  },
+  {
+    "cell": "C163",
+    "row": 3,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C235",
+    "row": 3,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.39768411550344085
+  },
+  {
+    "cell": "C168",
+    "row": 3,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8212639502374397
+  },
+  {
+    "cell": "C253",
+    "row": 3,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.982766457942989
+  },
+  {
+    "cell": "C291",
+    "row": 3,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3183680531838582
+  },
+  {
+    "cell": "C121",
+    "row": 4,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.386464693222623
+  },
+  {
+    "cell": "C204",
+    "row": 4,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2782617898261655
+  },
+  {
+    "cell": "C370",
+    "row": 4,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7086554448915219
+  },
+  {
+    "cell": "C120",
+    "row": 4,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9755761526430395
+  },
+  {
+    "cell": "C324",
+    "row": 4,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4388426904100358
+  },
+  {
+    "cell": "C426",
+    "row": 4,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117372509597729
+  },
+  {
+    "cell": "C207",
+    "row": 4,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.660137091837791
+  },
+  {
+    "cell": "C207",
+    "row": 4,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.660137091837791
+  },
+  {
+    "cell": "C352",
+    "row": 4,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7464945569912055
+  },
+  {
+    "cell": "C221",
+    "row": 4,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2952035840392604
+  },
+  {
+    "cell": "C476",
+    "row": 4,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7980661984672404
+  },
+  {
+    "cell": "C44",
+    "row": 4,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.12638306183179
+  },
+  {
+    "cell": "C339",
+    "row": 4,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6212834621377021
+  },
+  {
+    "cell": "C63",
+    "row": 4,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7635602456155169
+  },
+  {
+    "cell": "C483",
+    "row": 4,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.620659035253538
+  },
+  {
+    "cell": "C443",
+    "row": 4,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0379578673679184
+  },
+  {
+    "cell": "C199",
+    "row": 4,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.18387758443569968
+  },
+  {
+    "cell": "C98",
+    "row": 4,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.646760034625438
+  },
+  {
+    "cell": "C357",
+    "row": 4,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.747206186368063
+  },
+  {
+    "cell": "C254",
+    "row": 4,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.787625022699719
+  },
+  {
+    "cell": "C71",
+    "row": 4,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.403739584629984
+  },
+  {
+    "cell": "C162",
+    "row": 4,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C302",
+    "row": 4,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6250543656479822
+  },
+  {
+    "cell": "C320",
+    "row": 5,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7871491625377154
+  },
+  {
+    "cell": "C453",
+    "row": 5,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8308991636042172
+  },
+  {
+    "cell": "C130",
+    "row": 5,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.21433311851140713
+  },
+  {
+    "cell": "C130",
+    "row": 5,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.21433311851140713
+  },
+  {
+    "cell": "C369",
+    "row": 5,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.019817176473073683
+  },
+  {
+    "cell": "C179",
+    "row": 5,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7497605272490215
+  },
+  {
+    "cell": "C25",
+    "row": 5,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9397128222780913
+  },
+  {
+    "cell": "C59",
+    "row": 5,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0677137966605104
+  },
+  {
+    "cell": "C418",
+    "row": 5,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4845251532873074
+  },
+  {
+    "cell": "C260",
+    "row": 5,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.402985654747512
+  },
+  {
+    "cell": "C227",
+    "row": 5,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2134768837500585
+  },
+  {
+    "cell": "C36",
+    "row": 5,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.614107307122707
+  },
+  {
+    "cell": "C15",
+    "row": 5,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.034254703548204
+  },
+  {
+    "cell": "C193",
+    "row": 5,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.35188745660217624
+  },
+  {
+    "cell": "C346",
+    "row": 5,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2095956557171337
+  },
+  {
+    "cell": "C356",
+    "row": 5,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7409431429607584
+  },
+  {
+    "cell": "C407",
+    "row": 5,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1713050033129813
+  },
+  {
+    "cell": "C248",
+    "row": 5,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.11199798963728147
+  },
+  {
+    "cell": "C331",
+    "row": 5,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5482776501818525
+  },
+  {
+    "cell": "C450",
+    "row": 5,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.010551268584567564
+  },
+  {
+    "cell": "C409",
+    "row": 5,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.38894880418977
+  },
+  {
+    "cell": "C95",
+    "row": 5,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C23",
+    "row": 6,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5743554400696608
+  },
+  {
+    "cell": "C41",
+    "row": 6,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4125437741953095
+  },
+  {
+    "cell": "C382",
+    "row": 6,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.921212660213637
+  },
+  {
+    "cell": "C13",
+    "row": 6,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7072625041761165
+  },
+  {
+    "cell": "C444",
+    "row": 6,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.10906092016203
+  },
+  {
+    "cell": "C444",
+    "row": 6,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.10906092016203
+  },
+  {
+    "cell": "C264",
+    "row": 6,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C246",
+    "row": 6,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8080111598771746
+  },
+  {
+    "cell": "C321",
+    "row": 6,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.047357687589528
+  },
+  {
+    "cell": "C466",
+    "row": 6,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4142545530400468
+  },
+  {
+    "cell": "C492",
+    "row": 6,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5372992699461396
+  },
+  {
+    "cell": "C296",
+    "row": 6,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.611468880034771
+  },
+  {
+    "cell": "C51",
+    "row": 6,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.397773201232825
+  },
+  {
+    "cell": "C46",
+    "row": 6,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2142203642226153
+  },
+  {
+    "cell": "C360",
+    "row": 6,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.82136389458852
+  },
+  {
+    "cell": "C431",
+    "row": 6,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9713945412345196
+  },
+  {
+    "cell": "C494",
+    "row": 6,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.235394922518713
+  },
+  {
+    "cell": "C375",
+    "row": 6,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7912576113689838
+  },
+  {
+    "cell": "C175",
+    "row": 6,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3924484773984631
+  },
+  {
+    "cell": "C62",
+    "row": 6,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6516121773992284
+  },
+  {
+    "cell": "C331",
+    "row": 6,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5482776501818525
+  },
+  {
+    "cell": "C210",
+    "row": 6,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7251329532445967
+  },
+  {
+    "cell": "C467",
+    "row": 6,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0744473867455282
+  },
+  {
+    "cell": "C405",
+    "row": 6,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.264897147888583
+  },
+  {
+    "cell": "C496",
+    "row": 6,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3891686996940864
+  },
+  {
+    "cell": "C496",
+    "row": 6,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3891686996940864
+  },
+  {
+    "cell": "C257",
+    "row": 6,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6969509867198544
+  },
+  {
+    "cell": "C485",
+    "row": 6,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.005523934065872
+  },
+  {
+    "cell": "C409",
+    "row": 6,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.38894880418977
+  },
+  {
+    "cell": "C448",
+    "row": 6,
+    "x_before": 29.0,
+    "x_after": 29.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2678699676448706
+  },
+  {
+    "cell": "C56",
+    "row": 7,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.233512636242791
+  },
+  {
+    "cell": "C188",
+    "row": 7,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9086235501254905
+  },
+  {
+    "cell": "C440",
+    "row": 7,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.06814745809826
+  },
+  {
+    "cell": "C164",
+    "row": 7,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.680636056593431
+  },
+  {
+    "cell": "C469",
+    "row": 7,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5619196727472285
+  },
+  {
+    "cell": "C419",
+    "row": 7,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3549193890599822
+  },
+  {
+    "cell": "C75",
+    "row": 7,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6199406999845507
+  },
+  {
+    "cell": "C47",
+    "row": 7,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.784822601959604
+  },
+  {
+    "cell": "C428",
+    "row": 7,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.114085804371014
+  },
+  {
+    "cell": "C476",
+    "row": 7,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7980661984672404
+  },
+  {
+    "cell": "C376",
+    "row": 7,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9694124097767209
+  },
+  {
+    "cell": "C124",
+    "row": 7,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9967576844418837
+  },
+  {
+    "cell": "C11",
+    "row": 7,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8823981913160519
+  },
+  {
+    "cell": "C471",
+    "row": 7,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8251234581212584
+  },
+  {
+    "cell": "C178",
+    "row": 7,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5646459692138996
+  },
+  {
+    "cell": "C155",
+    "row": 7,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0946457258942948
+  },
+  {
+    "cell": "C454",
+    "row": 7,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6313043404128384
+  },
+  {
+    "cell": "C472",
+    "row": 7,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4507252983618226
+  },
+  {
+    "cell": "C470",
+    "row": 7,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1538197811641253
+  },
+  {
+    "cell": "C31",
+    "row": 7,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6813068763231476
+  },
+  {
+    "cell": "C289",
+    "row": 7,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2787472126200594
+  },
+  {
+    "cell": "C410",
+    "row": 7,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8933534113487901
+  },
+  {
+    "cell": "C86",
+    "row": 7,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8311455906556797
+  },
+  {
+    "cell": "C499",
+    "row": 7,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6564937091065076
+  },
+  {
+    "cell": "C484",
+    "row": 7,
+    "x_before": 29.0,
+    "x_after": 29.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.060149632110611
+  },
+  {
+    "cell": "C21",
+    "row": 7,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.689062634077306
+  },
+  {
+    "cell": "C171",
+    "row": 7,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8626713816326937
+  },
+  {
+    "cell": "C446",
+    "row": 7,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.46831380928436317
+  },
+  {
+    "cell": "C442",
+    "row": 7,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.031541088756168456
+  },
+  {
+    "cell": "C28",
+    "row": 8,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.00130934555761
+  },
+  {
+    "cell": "C195",
+    "row": 8,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0917152595715258
+  },
+  {
+    "cell": "C41",
+    "row": 8,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4125437741953095
+  },
+  {
+    "cell": "C112",
+    "row": 8,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6906473705383513
+  },
+  {
+    "cell": "C429",
+    "row": 8,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9711030733405233
+  },
+  {
+    "cell": "C351",
+    "row": 8,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6492339054455353
+  },
+  {
+    "cell": "C347",
+    "row": 8,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6492339054455353
+  },
+  {
+    "cell": "C255",
+    "row": 8,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3195899979944694
+  },
+  {
+    "cell": "C89",
+    "row": 8,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.109620513506747
+  },
+  {
+    "cell": "C312",
+    "row": 8,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.887540533945254
+  },
+  {
+    "cell": "C80",
+    "row": 8,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.32831552090549
+  },
+  {
+    "cell": "C293",
+    "row": 8,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.509874199544333
+  },
+  {
+    "cell": "C107",
+    "row": 8,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.660302404000093
+  },
+  {
+    "cell": "C336",
+    "row": 8,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C198",
+    "row": 8,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.161271358117423
+  },
+  {
+    "cell": "C102",
+    "row": 8,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4557311685443273
+  },
+  {
+    "cell": "C414",
+    "row": 8,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C189",
+    "row": 8,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C403",
+    "row": 8,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C230",
+    "row": 8,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C485",
+    "row": 8,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.005523934065872
+  },
+  {
+    "cell": "C276",
+    "row": 8,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.080604527186101
+  },
+  {
+    "cell": "C203",
+    "row": 8,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8188514492818939
+  },
+  {
+    "cell": "C115",
+    "row": 8,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C33",
+    "row": 9,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.001842659089028
+  },
+  {
+    "cell": "C362",
+    "row": 9,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.321218593735354
+  },
+  {
+    "cell": "C123",
+    "row": 9,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9914489404734654
+  },
+  {
+    "cell": "C453",
+    "row": 9,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8308991636042172
+  },
+  {
+    "cell": "C118",
+    "row": 9,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6021000461456536
+  },
+  {
+    "cell": "C185",
+    "row": 9,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.030886255647601
+  },
+  {
+    "cell": "C78",
+    "row": 9,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9638511590132084
+  },
+  {
+    "cell": "C288",
+    "row": 9,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.442827656867584
+  },
+  {
+    "cell": "C364",
+    "row": 9,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7387324110053166
+  },
+  {
+    "cell": "C491",
+    "row": 9,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.20133301341187
+  },
+  {
+    "cell": "C497",
+    "row": 9,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.39479978307314
+  },
+  {
+    "cell": "C282",
+    "row": 9,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5386928604546182
+  },
+  {
+    "cell": "C439",
+    "row": 9,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.454264379318526
+  },
+  {
+    "cell": "C114",
+    "row": 9,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C142",
+    "row": 9,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7004693725592923
+  },
+  {
+    "cell": "C117",
+    "row": 9,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3158331180044884
+  },
+  {
+    "cell": "C198",
+    "row": 9,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.161271358117423
+  },
+  {
+    "cell": "C250",
+    "row": 9,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1588801680281255
+  },
+  {
+    "cell": "C217",
+    "row": 9,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8673675575352261
+  },
+  {
+    "cell": "C51",
+    "row": 9,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.397773201232825
+  },
+  {
+    "cell": "C377",
+    "row": 9,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.749878240106713
+  },
+  {
+    "cell": "C378",
+    "row": 10,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C129",
+    "row": 10,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C228",
+    "row": 10,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6717436143834655
+  },
+  {
+    "cell": "C361",
+    "row": 10,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.505084834012633
+  },
+  {
+    "cell": "C309",
+    "row": 10,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.918080102199261
+  },
+  {
+    "cell": "C6",
+    "row": 10,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1593434078060758
+  },
+  {
+    "cell": "C82",
+    "row": 10,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6000816829185651
+  },
+  {
+    "cell": "C88",
+    "row": 10,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9073636850485602
+  },
+  {
+    "cell": "C489",
+    "row": 10,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.085535677458608
+  },
+  {
+    "cell": "C388",
+    "row": 10,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0837730489836237
+  },
+  {
+    "cell": "C145",
+    "row": 10,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3798601829690289
+  },
+  {
+    "cell": "C96",
+    "row": 10,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1082197938292797
+  },
+  {
+    "cell": "C10",
+    "row": 10,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8127780656483402
+  },
+  {
+    "cell": "C258",
+    "row": 10,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.704710230603355
+  },
+  {
+    "cell": "C79",
+    "row": 10,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4179520567284052
+  },
+  {
+    "cell": "C259",
+    "row": 10,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.541662156972971
+  },
+  {
+    "cell": "C107",
+    "row": 10,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.660302404000093
+  },
+  {
+    "cell": "C44",
+    "row": 10,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.12638306183179
+  },
+  {
+    "cell": "C229",
+    "row": 10,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1371659604980722
+  },
+  {
+    "cell": "C383",
+    "row": 10,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8464199021665824
+  },
+  {
+    "cell": "C452",
+    "row": 10,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.579600875520473
+  },
+  {
+    "cell": "C495",
+    "row": 10,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7478537599512265
+  },
+  {
+    "cell": "C135",
+    "row": 11,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6174584837006267
+  },
+  {
+    "cell": "C285",
+    "row": 11,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1616132848149974
+  },
+  {
+    "cell": "C333",
+    "row": 11,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9075483567067115
+  },
+  {
+    "cell": "C473",
+    "row": 11,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7912417612039833
+  },
+  {
+    "cell": "C369",
+    "row": 11,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.019817176473073683
+  },
+  {
+    "cell": "C133",
+    "row": 11,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1377000272713182
+  },
+  {
+    "cell": "C247",
+    "row": 11,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6746473782852527
+  },
+  {
+    "cell": "C277",
+    "row": 11,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.392825239626579
+  },
+  {
+    "cell": "C197",
+    "row": 11,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.696304774118615
+  },
+  {
+    "cell": "C152",
+    "row": 11,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.3497740249347254
+  },
+  {
+    "cell": "C417",
+    "row": 11,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.449260578573306
+  },
+  {
+    "cell": "C432",
+    "row": 11,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.846293915918109
+  },
+  {
+    "cell": "C323",
+    "row": 11,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.908595884079463
+  },
+  {
+    "cell": "C328",
+    "row": 11,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9508761399028476
+  },
+  {
+    "cell": "C201",
+    "row": 11,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.815954310040611
+  },
+  {
+    "cell": "C97",
+    "row": 11,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5536806184616092
+  },
+  {
+    "cell": "C334",
+    "row": 11,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7678976553996845
+  },
+  {
+    "cell": "C251",
+    "row": 11,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9495404251897916
+  },
+  {
+    "cell": "C385",
+    "row": 11,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4169712219014313
+  },
+  {
+    "cell": "C189",
+    "row": 11,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C329",
+    "row": 11,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1944590004113462
+  },
+  {
+    "cell": "C230",
+    "row": 11,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C176",
+    "row": 12,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1457055733932344
+  },
+  {
+    "cell": "C125",
+    "row": 12,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4559647644448468
+  },
+  {
+    "cell": "C103",
+    "row": 12,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6824586182845307
+  },
+  {
+    "cell": "C118",
+    "row": 12,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6021000461456536
+  },
+  {
+    "cell": "C486",
+    "row": 12,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4746038935602055
+  },
+  {
+    "cell": "C147",
+    "row": 12,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5994695850376845
+  },
+  {
+    "cell": "C401",
+    "row": 12,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.959677159925598
+  },
+  {
+    "cell": "C215",
+    "row": 12,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1458279308063481
+  },
+  {
+    "cell": "C236",
+    "row": 12,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7896893299480093
+  },
+  {
+    "cell": "C284",
+    "row": 12,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3154560267288962
+  },
+  {
+    "cell": "C143",
+    "row": 12,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.076545882619538
+  },
+  {
+    "cell": "C218",
+    "row": 12,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5741021640845534
+  },
+  {
+    "cell": "C402",
+    "row": 12,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2961991714491967
+  },
+  {
+    "cell": "C438",
+    "row": 12,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.36734257577053
+  },
+  {
+    "cell": "C17",
+    "row": 12,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9854178681142782
+  },
+  {
+    "cell": "C451",
+    "row": 12,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.572380338919073
+  },
+  {
+    "cell": "C222",
+    "row": 12,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.223730855077193
+  },
+  {
+    "cell": "C226",
+    "row": 12,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C200",
+    "row": 12,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6481706763092143
+  },
+  {
+    "cell": "C279",
+    "row": 12,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4256659127206395
+  },
+  {
+    "cell": "C18",
+    "row": 12,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.653540237279705
+  },
+  {
+    "cell": "C12",
+    "row": 12,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C62",
+    "row": 12,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6516121773992284
+  },
+  {
+    "cell": "C71",
+    "row": 12,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.403739584629984
+  },
+  {
+    "cell": "C43",
+    "row": 13,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8193849271229705
+  },
+  {
+    "cell": "C180",
+    "row": 13,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C194",
+    "row": 13,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C498",
+    "row": 13,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4303134510309554
+  },
+  {
+    "cell": "C355",
+    "row": 13,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.552353897361319
+  },
+  {
+    "cell": "C488",
+    "row": 13,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7332036085978852
+  },
+  {
+    "cell": "C231",
+    "row": 13,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8520577099740084
+  },
+  {
+    "cell": "C39",
+    "row": 13,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5270051152247232
+  },
+  {
+    "cell": "C284",
+    "row": 13,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3154560267288962
+  },
+  {
+    "cell": "C238",
+    "row": 13,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5002958894466356
+  },
+  {
+    "cell": "C363",
+    "row": 13,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.028498020169447
+  },
+  {
+    "cell": "C252",
+    "row": 13,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.664292294231176
+  },
+  {
+    "cell": "C332",
+    "row": 13,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9956264340887874
+  },
+  {
+    "cell": "C241",
+    "row": 13,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4633876412065744
+  },
+  {
+    "cell": "C110",
+    "row": 13,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.378417225924379
+  },
+  {
+    "cell": "C422",
+    "row": 13,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.403053478649166
+  },
+  {
+    "cell": "C379",
+    "row": 13,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.051938069139072
+  },
+  {
+    "cell": "C354",
+    "row": 13,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.831945176646296
+  },
+  {
+    "cell": "C7",
+    "row": 13,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0586590771039721
+  },
+  {
+    "cell": "C72",
+    "row": 13,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.948342089088008
+  },
+  {
+    "cell": "C208",
+    "row": 13,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0874300638299745
+  },
+  {
+    "cell": "C94",
+    "row": 13,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.239030066272333
+  },
+  {
+    "cell": "C475",
+    "row": 13,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.705280203754654
+  },
+  {
+    "cell": "C328",
+    "row": 13,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9508761399028476
+  },
+  {
+    "cell": "C178",
+    "row": 13,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5646459692138996
+  },
+  {
+    "cell": "C60",
+    "row": 13,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.501234485872133
+  },
+  {
+    "cell": "C113",
+    "row": 13,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4498172605269355
+  },
+  {
+    "cell": "C378",
+    "row": 14,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C330",
+    "row": 14,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8019855739996098
+  },
+  {
+    "cell": "C420",
+    "row": 14,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C398",
+    "row": 14,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4641509805564987
+  },
+  {
+    "cell": "C220",
+    "row": 14,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8341752045509024
+  },
+  {
+    "cell": "C435",
+    "row": 14,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4839916722271371
+  },
+  {
+    "cell": "C202",
+    "row": 14,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8495008170150873
+  },
+  {
+    "cell": "C337",
+    "row": 14,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9677389235524972
+  },
+  {
+    "cell": "C101",
+    "row": 14,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.43794165943324
+  },
+  {
+    "cell": "C338",
+    "row": 14,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.827412598129431
+  },
+  {
+    "cell": "C386",
+    "row": 14,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.341138917823522
+  },
+  {
+    "cell": "C307",
+    "row": 14,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6372293524208947
+  },
+  {
+    "cell": "C116",
+    "row": 14,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8237794401856707
+  },
+  {
+    "cell": "C159",
+    "row": 14,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9282443037394073
+  },
+  {
+    "cell": "C389",
+    "row": 14,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.47913068291095273
+  },
+  {
+    "cell": "C150",
+    "row": 14,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0228538361043316
+  },
+  {
+    "cell": "C187",
+    "row": 14,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.40546490900014254
+  },
+  {
+    "cell": "C238",
+    "row": 14,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5002958894466356
+  },
+  {
+    "cell": "C138",
+    "row": 14,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5200480046011084
+  },
+  {
+    "cell": "C241",
+    "row": 14,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4633876412065744
+  },
+  {
+    "cell": "C0",
+    "row": 14,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.35188745660217624
+  },
+  {
+    "cell": "C286",
+    "row": 14,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.552353897361319
+  },
+  {
+    "cell": "C288",
+    "row": 14,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.442827656867584
+  },
+  {
+    "cell": "C193",
+    "row": 14,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.35188745660217624
+  },
+  {
+    "cell": "C152",
+    "row": 14,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.3497740249347254
+  },
+  {
+    "cell": "C49",
+    "row": 14,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.266291366593475
+  },
+  {
+    "cell": "C86",
+    "row": 14,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8311455906556797
+  },
+  {
+    "cell": "C232",
+    "row": 14,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6024894507113676
+  },
+  {
+    "cell": "C341",
+    "row": 14,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5482997506583693
+  },
+  {
+    "cell": "C180",
+    "row": 15,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C474",
+    "row": 15,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8008809027948613
+  },
+  {
+    "cell": "C243",
+    "row": 15,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3842204296371419
+  },
+  {
+    "cell": "C65",
+    "row": 15,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9578872382666206
+  },
+  {
+    "cell": "C477",
+    "row": 15,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.46519891129580204
+  },
+  {
+    "cell": "C351",
+    "row": 15,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6492339054455353
+  },
+  {
+    "cell": "C45",
+    "row": 15,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3924484773984631
+  },
+  {
+    "cell": "C481",
+    "row": 15,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6465625858750905
+  },
+  {
+    "cell": "C245",
+    "row": 15,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.279247445210528
+  },
+  {
+    "cell": "C310",
+    "row": 15,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9029021775741386
+  },
+  {
+    "cell": "C488",
+    "row": 15,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7332036085978852
+  },
+  {
+    "cell": "C462",
+    "row": 15,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9288351316559922
+  },
+  {
+    "cell": "C17",
+    "row": 15,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9854178681142782
+  },
+  {
+    "cell": "C468",
+    "row": 15,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.530011311183867
+  },
+  {
+    "cell": "C457",
+    "row": 15,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3952377767645148
+  },
+  {
+    "cell": "C149",
+    "row": 15,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5463407280432224
+  },
+  {
+    "cell": "C18",
+    "row": 15,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.653540237279705
+  },
+  {
+    "cell": "C127",
+    "row": 15,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.263355148875018
+  },
+  {
+    "cell": "C251",
+    "row": 15,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9495404251897916
+  },
+  {
+    "cell": "C359",
+    "row": 15,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C145",
+    "row": 15,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3798601829690289
+  },
+  {
+    "cell": "C273",
+    "row": 15,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.029332547047888
+  },
+  {
+    "cell": "C346",
+    "row": 15,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2095956557171337
+  },
+  {
+    "cell": "C72",
+    "row": 15,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.948342089088008
+  },
+  {
+    "cell": "C235",
+    "row": 15,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.39768411550344085
+  },
+  {
+    "cell": "C437",
+    "row": 15,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4800487395081907
+  },
+  {
+    "cell": "C387",
+    "row": 16,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.18108030167669864
+  },
+  {
+    "cell": "C52",
+    "row": 16,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.019817176473073683
+  },
+  {
+    "cell": "C309",
+    "row": 16,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.918080102199261
+  },
+  {
+    "cell": "C262",
+    "row": 16,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.655678302346433
+  },
+  {
+    "cell": "C397",
+    "row": 16,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9383089254734824
+  },
+  {
+    "cell": "C234",
+    "row": 16,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5038824652524968
+  },
+  {
+    "cell": "C43",
+    "row": 16,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8193849271229705
+  },
+  {
+    "cell": "C1",
+    "row": 16,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.68929845971974
+  },
+  {
+    "cell": "C174",
+    "row": 16,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9790506757277602
+  },
+  {
+    "cell": "C489",
+    "row": 16,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.085535677458608
+  },
+  {
+    "cell": "C423",
+    "row": 16,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1761906751234528
+  },
+  {
+    "cell": "C348",
+    "row": 16,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.15890465923627628
+  },
+  {
+    "cell": "C271",
+    "row": 16,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.842776730010187
+  },
+  {
+    "cell": "C283",
+    "row": 16,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0176737666644522
+  },
+  {
+    "cell": "C3",
+    "row": 16,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4791611091062964
+  },
+  {
+    "cell": "C42",
+    "row": 16,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.261262278509199
+  },
+  {
+    "cell": "C128",
+    "row": 16,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.197413806847386
+  },
+  {
+    "cell": "C15",
+    "row": 16,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.034254703548204
+  },
+  {
+    "cell": "C349",
+    "row": 16,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.848252696459111
+  },
+  {
+    "cell": "C282",
+    "row": 16,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5386928604546182
+  },
+  {
+    "cell": "C265",
+    "row": 16,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.002935629990688
+  },
+  {
+    "cell": "C317",
+    "row": 16,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7978391687174361
+  },
+  {
+    "cell": "C289",
+    "row": 16,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2787472126200594
+  },
+  {
+    "cell": "C400",
+    "row": 16,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7832317240993273
+  },
+  {
+    "cell": "C313",
+    "row": 16,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3918061490406659
+  },
+  {
+    "cell": "C104",
+    "row": 17,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6872671382327156
+  },
+  {
+    "cell": "C157",
+    "row": 17,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6250543656479822
+  },
+  {
+    "cell": "C394",
+    "row": 17,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7182937108425611
+  },
+  {
+    "cell": "C184",
+    "row": 17,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0545253815195381
+  },
+  {
+    "cell": "C355",
+    "row": 17,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.552353897361319
+  },
+  {
+    "cell": "C435",
+    "row": 17,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4839916722271371
+  },
+  {
+    "cell": "C413",
+    "row": 17,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2473239071083484
+  },
+  {
+    "cell": "C160",
+    "row": 17,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3982254274125131
+  },
+  {
+    "cell": "C13",
+    "row": 17,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7072625041761165
+  },
+  {
+    "cell": "C441",
+    "row": 17,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9527711668772954
+  },
+  {
+    "cell": "C90",
+    "row": 17,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7648115387534737
+  },
+  {
+    "cell": "C367",
+    "row": 17,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.705617814859056
+  },
+  {
+    "cell": "C271",
+    "row": 17,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.842776730010187
+  },
+  {
+    "cell": "C53",
+    "row": 17,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8758543936116081
+  },
+  {
+    "cell": "C34",
+    "row": 17,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.96342374546315
+  },
+  {
+    "cell": "C158",
+    "row": 17,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.703593116559025
+  },
+  {
+    "cell": "C486",
+    "row": 17,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4746038935602055
+  },
+  {
+    "cell": "C467",
+    "row": 17,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0744473867455282
+  },
+  {
+    "cell": "C21",
+    "row": 17,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.689062634077306
+  },
+  {
+    "cell": "C314",
+    "row": 17,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1877319357214602
+  },
+  {
+    "cell": "C270",
+    "row": 17,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2824176171787658
+  },
+  {
+    "cell": "C29",
+    "row": 17,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3106788865077696
+  },
+  {
+    "cell": "C20",
+    "row": 17,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7492492699339394
+  },
+  {
+    "cell": "C175",
+    "row": 17,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3924484773984631
+  },
+  {
+    "cell": "C370",
+    "row": 18,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7086554448915219
+  },
+  {
+    "cell": "C122",
+    "row": 18,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6806963653912492
+  },
+  {
+    "cell": "C123",
+    "row": 18,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9914489404734654
+  },
+  {
+    "cell": "C225",
+    "row": 18,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2091644046142207
+  },
+  {
+    "cell": "C479",
+    "row": 18,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6554290504527752
+  },
+  {
+    "cell": "C185",
+    "row": 18,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.030886255647601
+  },
+  {
+    "cell": "C465",
+    "row": 18,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6329699426764762
+  },
+  {
+    "cell": "C321",
+    "row": 18,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.047357687589528
+  },
+  {
+    "cell": "C73",
+    "row": 18,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8035031751781663
+  },
+  {
+    "cell": "C305",
+    "row": 18,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5453025128602123
+  },
+  {
+    "cell": "C301",
+    "row": 18,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.023318648032776
+  },
+  {
+    "cell": "C147",
+    "row": 18,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5994695850376845
+  },
+  {
+    "cell": "C192",
+    "row": 18,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7778865178121923
+  },
+  {
+    "cell": "C109",
+    "row": 18,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3059407310847324
+  },
+  {
+    "cell": "C275",
+    "row": 18,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.3441405362079295
+  },
+  {
+    "cell": "C316",
+    "row": 18,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2629952456700995
+  },
+  {
+    "cell": "C408",
+    "row": 18,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.416160791738529
+  },
+  {
+    "cell": "C182",
+    "row": 18,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.578898109877759
+  },
+  {
+    "cell": "C366",
+    "row": 18,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4240828467886733
+  },
+  {
+    "cell": "C367",
+    "row": 18,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.705617814859056
+  },
+  {
+    "cell": "C404",
+    "row": 18,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7249073953246592
+  },
+  {
+    "cell": "C399",
+    "row": 18,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8181195222570697
+  },
+  {
+    "cell": "C475",
+    "row": 18,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.705280203754654
+  },
+  {
+    "cell": "C318",
+    "row": 18,
+    "x_before": 32.0,
+    "x_after": 32.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5844219656639007
+  },
+  {
+    "cell": "C430",
+    "row": 18,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C280",
+    "row": 18,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.14169124677944256
+  },
+  {
+    "cell": "C482",
+    "row": 18,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.149370540099207
+  },
+  {
+    "cell": "C54",
+    "row": 18,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117372509597729
+  },
+  {
+    "cell": "C256",
+    "row": 19,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5952705759779378
+  },
+  {
+    "cell": "C136",
+    "row": 19,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C371",
+    "row": 19,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3254825977645575
+  },
+  {
+    "cell": "C195",
+    "row": 19,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0917152595715258
+  },
+  {
+    "cell": "C14",
+    "row": 19,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.06771640820946867
+  },
+  {
+    "cell": "C216",
+    "row": 19,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9175256210855848
+  },
+  {
+    "cell": "C186",
+    "row": 19,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8357070192787277
+  },
+  {
+    "cell": "C59",
+    "row": 19,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0677137966605104
+  },
+  {
+    "cell": "C298",
+    "row": 19,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9486993235641479
+  },
+  {
+    "cell": "C433",
+    "row": 19,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4309226880850883
+  },
+  {
+    "cell": "C416",
+    "row": 19,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C416",
+    "row": 19,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C49",
+    "row": 19,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.266291366593475
+  },
+  {
+    "cell": "C411",
+    "row": 19,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4239525192717448
+  },
+  {
+    "cell": "C478",
+    "row": 19,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0940631551221185
+  },
+  {
+    "cell": "C261",
+    "row": 19,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1213749283271373
+  },
+  {
+    "cell": "C304",
+    "row": 19,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4814715793425783
+  },
+  {
+    "cell": "C266",
+    "row": 19,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.203010514457417
+  },
+  {
+    "cell": "C363",
+    "row": 19,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.028498020169447
+  },
+  {
+    "cell": "C332",
+    "row": 19,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9956264340887874
+  },
+  {
+    "cell": "C168",
+    "row": 19,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8212639502374397
+  },
+  {
+    "cell": "C46",
+    "row": 19,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2142203642226153
+  },
+  {
+    "cell": "C113",
+    "row": 19,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4498172605269355
+  },
+  {
+    "cell": "C295",
+    "row": 19,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6494820757433
+  },
+  {
+    "cell": "C322",
+    "row": 19,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8511899000148644
+  },
+  {
+    "cell": "C410",
+    "row": 19,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8933534113487901
+  },
+  {
+    "cell": "C48",
+    "row": 20,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0038046520095225
+  },
+  {
+    "cell": "C121",
+    "row": 20,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.386464693222623
+  },
+  {
+    "cell": "C52",
+    "row": 20,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.019817176473073683
+  },
+  {
+    "cell": "C9",
+    "row": 20,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9462539238739447
+  },
+  {
+    "cell": "C58",
+    "row": 20,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9845371304009674
+  },
+  {
+    "cell": "C24",
+    "row": 20,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6928284560878915
+  },
+  {
+    "cell": "C455",
+    "row": 20,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.3836429034291085
+  },
+  {
+    "cell": "C473",
+    "row": 20,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7912417612039833
+  },
+  {
+    "cell": "C398",
+    "row": 20,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4641509805564987
+  },
+  {
+    "cell": "C179",
+    "row": 20,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7497605272490215
+  },
+  {
+    "cell": "C402",
+    "row": 20,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2961991714491967
+  },
+  {
+    "cell": "C260",
+    "row": 20,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.402985654747512
+  },
+  {
+    "cell": "C65",
+    "row": 20,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9578872382666206
+  },
+  {
+    "cell": "C61",
+    "row": 20,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1283425312474615
+  },
+  {
+    "cell": "C2",
+    "row": 20,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9591485565103343
+  },
+  {
+    "cell": "C368",
+    "row": 20,
+    "x_before": 31.0,
+    "x_after": 31.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C395",
+    "row": 20,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8333394741315443
+  },
+  {
+    "cell": "C325",
+    "row": 20,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0227993919508886
+  },
+  {
+    "cell": "C181",
+    "row": 20,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.031541088756168456
+  },
+  {
+    "cell": "C11",
+    "row": 20,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8823981913160519
+  },
+  {
+    "cell": "C22",
+    "row": 20,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.353289847935852
+  },
+  {
+    "cell": "C339",
+    "row": 20,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6212834621377021
+  },
+  {
+    "cell": "C154",
+    "row": 20,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.944381610261602
+  },
+  {
+    "cell": "C4",
+    "row": 20,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6638657786715627
+  },
+  {
+    "cell": "C7",
+    "row": 20,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0586590771039721
+  },
+  {
+    "cell": "C138",
+    "row": 20,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5200480046011084
+  },
+  {
+    "cell": "C408",
+    "row": 20,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.416160791738529
+  },
+  {
+    "cell": "C60",
+    "row": 20,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.501234485872133
+  },
+  {
+    "cell": "C243",
+    "row": 21,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3842204296371419
+  },
+  {
+    "cell": "C300",
+    "row": 21,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2575391922451504
+  },
+  {
+    "cell": "C122",
+    "row": 21,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6806963653912492
+  },
+  {
+    "cell": "C172",
+    "row": 21,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.523150237899233
+  },
+  {
+    "cell": "C89",
+    "row": 21,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.109620513506747
+  },
+  {
+    "cell": "C30",
+    "row": 21,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2048853373137596
+  },
+  {
+    "cell": "C50",
+    "row": 21,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5082155532185738
+  },
+  {
+    "cell": "C461",
+    "row": 21,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.112523764294484
+  },
+  {
+    "cell": "C461",
+    "row": 21,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.112523764294484
+  },
+  {
+    "cell": "C224",
+    "row": 21,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0083954147093683
+  },
+  {
+    "cell": "C445",
+    "row": 21,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.66302465266781
+  },
+  {
+    "cell": "C469",
+    "row": 21,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5619196727472285
+  },
+  {
+    "cell": "C192",
+    "row": 21,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7778865178121923
+  },
+  {
+    "cell": "C384",
+    "row": 21,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0853153160563682
+  },
+  {
+    "cell": "C26",
+    "row": 21,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.40195579393954917
+  },
+  {
+    "cell": "C63",
+    "row": 21,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7635602456155169
+  },
+  {
+    "cell": "C478",
+    "row": 21,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0940631551221185
+  },
+  {
+    "cell": "C350",
+    "row": 21,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5968150366884487
+  },
+  {
+    "cell": "C424",
+    "row": 21,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4634520046511728
+  },
+  {
+    "cell": "C454",
+    "row": 21,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6313043404128384
+  },
+  {
+    "cell": "C314",
+    "row": 21,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1877319357214602
+  },
+  {
+    "cell": "C248",
+    "row": 21,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.11199798963728147
+  },
+  {
+    "cell": "C153",
+    "row": 22,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2623251301530973
+  },
+  {
+    "cell": "C153",
+    "row": 22,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2623251301530973
+  },
+  {
+    "cell": "C412",
+    "row": 22,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.11199798963728147
+  },
+  {
+    "cell": "C285",
+    "row": 22,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1616132848149974
+  },
+  {
+    "cell": "C382",
+    "row": 22,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.921212660213637
+  },
+  {
+    "cell": "C141",
+    "row": 22,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8349636970879059
+  },
+  {
+    "cell": "C103",
+    "row": 22,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6824586182845307
+  },
+  {
+    "cell": "C144",
+    "row": 22,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C30",
+    "row": 22,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2048853373137596
+  },
+  {
+    "cell": "C311",
+    "row": 22,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5046727755714269
+  },
+  {
+    "cell": "C401",
+    "row": 22,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.959677159925598
+  },
+  {
+    "cell": "C134",
+    "row": 22,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.039304061520585
+  },
+  {
+    "cell": "C206",
+    "row": 22,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9190598371018803
+  },
+  {
+    "cell": "C215",
+    "row": 22,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1458279308063481
+  },
+  {
+    "cell": "C32",
+    "row": 22,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1367935036166377
+  },
+  {
+    "cell": "C319",
+    "row": 22,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7740799125225644
+  },
+  {
+    "cell": "C19",
+    "row": 22,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5015110989699383
+  },
+  {
+    "cell": "C102",
+    "row": 22,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4557311685443273
+  },
+  {
+    "cell": "C298",
+    "row": 22,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9486993235641479
+  },
+  {
+    "cell": "C466",
+    "row": 22,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4142545530400468
+  },
+  {
+    "cell": "C78",
+    "row": 22,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9638511590132084
+  },
+  {
+    "cell": "C474",
+    "row": 22,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8008809027948613
+  },
+  {
+    "cell": "C415",
+    "row": 22,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0128692423364862
+  },
+  {
+    "cell": "C499",
+    "row": 22,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6564937091065076
+  },
+  {
+    "cell": "C493",
+    "row": 22,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1341558161658036
+  },
+  {
+    "cell": "C458",
+    "row": 22,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.2856861258661594
+  },
+  {
+    "cell": "C458",
+    "row": 22,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.2856861258661594
+  },
+  {
+    "cell": "C353",
+    "row": 22,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.930630999687033
+  },
+  {
+    "cell": "C497",
+    "row": 22,
+    "x_before": 28.0,
+    "x_after": 28.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.39479978307314
+  },
+  {
+    "cell": "C484",
+    "row": 22,
+    "x_before": 29.0,
+    "x_after": 29.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.060149632110611
+  },
+  {
+    "cell": "C38",
+    "row": 22,
+    "x_before": 30.0,
+    "x_after": 30.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5561308096067128
+  },
+  {
+    "cell": "C368",
+    "row": 22,
+    "x_before": 31.0,
+    "x_after": 31.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C318",
+    "row": 22,
+    "x_before": 32.0,
+    "x_after": 32.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5844219656639007
+  },
+  {
+    "cell": "C256",
+    "row": 23,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5952705759779378
+  },
+  {
+    "cell": "C412",
+    "row": 23,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.11199798963728147
+  },
+  {
+    "cell": "C347",
+    "row": 23,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6492339054455353
+  },
+  {
+    "cell": "C111",
+    "row": 23,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.395783162190559
+  },
+  {
+    "cell": "C27",
+    "row": 23,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.375547621054915
+  },
+  {
+    "cell": "C231",
+    "row": 23,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8520577099740084
+  },
+  {
+    "cell": "C427",
+    "row": 23,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8471424425737224
+  },
+  {
+    "cell": "C137",
+    "row": 23,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0522141321618106
+  },
+  {
+    "cell": "C425",
+    "row": 23,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4429657625106502
+  },
+  {
+    "cell": "C490",
+    "row": 23,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0576334397708207
+  },
+  {
+    "cell": "C186",
+    "row": 23,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8357070192787277
+  },
+  {
+    "cell": "C396",
+    "row": 23,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7025451726630476
+  },
+  {
+    "cell": "C87",
+    "row": 23,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.026246884662475
+  },
+  {
+    "cell": "C110",
+    "row": 23,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.378417225924379
+  },
+  {
+    "cell": "C417",
+    "row": 23,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.449260578573306
+  },
+  {
+    "cell": "C159",
+    "row": 23,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9282443037394073
+  },
+  {
+    "cell": "C143",
+    "row": 23,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.076545882619538
+  },
+  {
+    "cell": "C418",
+    "row": 23,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4845251532873074
+  },
+  {
+    "cell": "C55",
+    "row": 23,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7600825575813102
+  },
+  {
+    "cell": "C126",
+    "row": 23,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7197540221278861
+  },
+  {
+    "cell": "C357",
+    "row": 23,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.747206186368063
+  },
+  {
+    "cell": "C259",
+    "row": 23,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.541662156972971
+  },
+  {
+    "cell": "C32",
+    "row": 23,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1367935036166377
+  },
+  {
+    "cell": "C400",
+    "row": 23,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7832317240993273
+  },
+  {
+    "cell": "C217",
+    "row": 23,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8673675575352261
+  },
+  {
+    "cell": "C265",
+    "row": 23,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.002935629990688
+  },
+  {
+    "cell": "C33",
+    "row": 24,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.001842659089028
+  },
+  {
+    "cell": "C119",
+    "row": 24,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1585463355933618
+  },
+  {
+    "cell": "C74",
+    "row": 24,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6247182287534043
+  },
+  {
+    "cell": "C225",
+    "row": 24,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2091644046142207
+  },
+  {
+    "cell": "C40",
+    "row": 24,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7764908385609193
+  },
+  {
+    "cell": "C299",
+    "row": 24,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.619464476884132
+  },
+  {
+    "cell": "C93",
+    "row": 24,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5334695694767881
+  },
+  {
+    "cell": "C81",
+    "row": 24,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5919334943037013
+  },
+  {
+    "cell": "C92",
+    "row": 24,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9515289426499351
+  },
+  {
+    "cell": "C393",
+    "row": 24,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4314331986105997
+  },
+  {
+    "cell": "C279",
+    "row": 24,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4256659127206395
+  },
+  {
+    "cell": "C218",
+    "row": 24,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5741021640845534
+  },
+  {
+    "cell": "C191",
+    "row": 24,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0518625939375656
+  },
+  {
+    "cell": "C301",
+    "row": 24,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.023318648032776
+  },
+  {
+    "cell": "C173",
+    "row": 24,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6683630495056092
+  },
+  {
+    "cell": "C114",
+    "row": 24,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C201",
+    "row": 24,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.815954310040611
+  },
+  {
+    "cell": "C431",
+    "row": 24,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9713945412345196
+  },
+  {
+    "cell": "C305",
+    "row": 24,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5453025128602123
+  },
+  {
+    "cell": "C395",
+    "row": 24,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8333394741315443
+  },
+  {
+    "cell": "C171",
+    "row": 24,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8626713816326937
+  },
+  {
+    "cell": "C181",
+    "row": 24,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.031541088756168456
+  },
+  {
+    "cell": "C477",
+    "row": 25,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.46519891129580204
+  },
+  {
+    "cell": "C421",
+    "row": 25,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7316977061812442
+  },
+  {
+    "cell": "C137",
+    "row": 25,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0522141321618106
+  },
+  {
+    "cell": "C47",
+    "row": 25,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.784822601959604
+  },
+  {
+    "cell": "C456",
+    "row": 25,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.489235930428641
+  },
+  {
+    "cell": "C440",
+    "row": 25,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.06814745809826
+  },
+  {
+    "cell": "C156",
+    "row": 25,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4022252978091543
+  },
+  {
+    "cell": "C99",
+    "row": 25,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6225012306359794
+  },
+  {
+    "cell": "C174",
+    "row": 25,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9790506757277602
+  },
+  {
+    "cell": "C53",
+    "row": 25,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8758543936116081
+  },
+  {
+    "cell": "C167",
+    "row": 25,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5912737824554566
+  },
+  {
+    "cell": "C37",
+    "row": 25,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.19607781609707653
+  },
+  {
+    "cell": "C360",
+    "row": 25,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.82136389458852
+  },
+  {
+    "cell": "C491",
+    "row": 25,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.20133301341187
+  },
+  {
+    "cell": "C141",
+    "row": 25,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8349636970879059
+  },
+  {
+    "cell": "C379",
+    "row": 25,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.051938069139072
+  },
+  {
+    "cell": "C403",
+    "row": 25,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C399",
+    "row": 25,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8181195222570697
+  },
+  {
+    "cell": "C281",
+    "row": 26,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8917500269589722
+  },
+  {
+    "cell": "C125",
+    "row": 26,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4559647644448468
+  },
+  {
+    "cell": "C165",
+    "row": 26,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2264234364934237
+  },
+  {
+    "cell": "C165",
+    "row": 26,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2264234364934237
+  },
+  {
+    "cell": "C216",
+    "row": 26,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9175256210855848
+  },
+  {
+    "cell": "C100",
+    "row": 26,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3413016390752581
+  },
+  {
+    "cell": "C294",
+    "row": 26,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7377574755267996
+  },
+  {
+    "cell": "C464",
+    "row": 26,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.603361483793469
+  },
+  {
+    "cell": "C246",
+    "row": 26,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8080111598771746
+  },
+  {
+    "cell": "C101",
+    "row": 26,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.43794165943324
+  },
+  {
+    "cell": "C8",
+    "row": 26,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.397773201232825
+  },
+  {
+    "cell": "C326",
+    "row": 26,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.005620994020047232
+  },
+  {
+    "cell": "C303",
+    "row": 26,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.167814351138183
+  },
+  {
+    "cell": "C124",
+    "row": 26,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9967576844418837
+  },
+  {
+    "cell": "C447",
+    "row": 26,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.100779929906107
+  },
+  {
+    "cell": "C492",
+    "row": 26,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5372992699461396
+  },
+  {
+    "cell": "C61",
+    "row": 26,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1283425312474615
+  },
+  {
+    "cell": "C480",
+    "row": 26,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.048514167101053
+  },
+  {
+    "cell": "C254",
+    "row": 26,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.787625022699719
+  },
+  {
+    "cell": "C439",
+    "row": 26,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.454264379318526
+  },
+  {
+    "cell": "C155",
+    "row": 26,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0946457258942948
+  },
+  {
+    "cell": "C187",
+    "row": 26,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.40546490900014254
+  },
+  {
+    "cell": "C295",
+    "row": 26,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6494820757433
+  },
+  {
+    "cell": "C375",
+    "row": 26,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7912576113689838
+  },
+  {
+    "cell": "C12",
+    "row": 26,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C154",
+    "row": 26,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.944381610261602
+  },
+  {
+    "cell": "C129",
+    "row": 27,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C57",
+    "row": 27,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.25695147073362123
+  },
+  {
+    "cell": "C324",
+    "row": 27,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4388426904100358
+  },
+  {
+    "cell": "C244",
+    "row": 27,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9104560081623463
+  },
+  {
+    "cell": "C459",
+    "row": 27,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4772449976567037
+  },
+  {
+    "cell": "C228",
+    "row": 27,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6717436143834655
+  },
+  {
+    "cell": "C156",
+    "row": 27,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4022252978091543
+  },
+  {
+    "cell": "C299",
+    "row": 27,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.619464476884132
+  },
+  {
+    "cell": "C212",
+    "row": 27,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1402177381381944
+  },
+  {
+    "cell": "C380",
+    "row": 27,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.230567879169652
+  },
+  {
+    "cell": "C219",
+    "row": 27,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1957954363805552
+  },
+  {
+    "cell": "C460",
+    "row": 27,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3010644254709982
+  },
+  {
+    "cell": "C354",
+    "row": 27,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.831945176646296
+  },
+  {
+    "cell": "C96",
+    "row": 27,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1082197938292797
+  },
+  {
+    "cell": "C274",
+    "row": 27,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.71027849707066
+  },
+  {
+    "cell": "C206",
+    "row": 27,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9190598371018803
+  },
+  {
+    "cell": "C196",
+    "row": 27,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4507165211047017
+  },
+  {
+    "cell": "C449",
+    "row": 27,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 4.7671456317905685
+  },
+  {
+    "cell": "C142",
+    "row": 27,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7004693725592923
+  },
+  {
+    "cell": "C88",
+    "row": 27,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9073636850485602
+  },
+  {
+    "cell": "C85",
+    "row": 27,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.1812226781137087
+  },
+  {
+    "cell": "C240",
+    "row": 27,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.43616605704302813
+  },
+  {
+    "cell": "C267",
+    "row": 27,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8894348480665113
+  },
+  {
+    "cell": "C267",
+    "row": 27,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8894348480665113
+  },
+  {
+    "cell": "C273",
+    "row": 27,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.029332547047888
+  },
+  {
+    "cell": "C104",
+    "row": 28,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6872671382327156
+  },
+  {
+    "cell": "C106",
+    "row": 28,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3250140700584182
+  },
+  {
+    "cell": "C169",
+    "row": 28,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8795004546986819
+  },
+  {
+    "cell": "C361",
+    "row": 28,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.505084834012633
+  },
+  {
+    "cell": "C249",
+    "row": 28,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.168614113930257
+  },
+  {
+    "cell": "C68",
+    "row": 28,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0991419902482313
+  },
+  {
+    "cell": "C48",
+    "row": 28,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.0038046520095225
+  },
+  {
+    "cell": "C479",
+    "row": 28,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6554290504527752
+  },
+  {
+    "cell": "C70",
+    "row": 28,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6258175172381157
+  },
+  {
+    "cell": "C108",
+    "row": 28,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9131751418384821
+  },
+  {
+    "cell": "C345",
+    "row": 28,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.280965348086373
+  },
+  {
+    "cell": "C36",
+    "row": 28,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.614107307122707
+  },
+  {
+    "cell": "C364",
+    "row": 28,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7387324110053166
+  },
+  {
+    "cell": "C292",
+    "row": 28,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9936811174450857
+  },
+  {
+    "cell": "C91",
+    "row": 28,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6269096452169673
+  },
+  {
+    "cell": "C452",
+    "row": 28,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.579600875520473
+  },
+  {
+    "cell": "C373",
+    "row": 28,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0353992922193018
+  },
+  {
+    "cell": "C468",
+    "row": 28,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.530011311183867
+  },
+  {
+    "cell": "C16",
+    "row": 28,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.489581026849661
+  },
+  {
+    "cell": "C429",
+    "row": 28,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9711030733405233
+  },
+  {
+    "cell": "C460",
+    "row": 28,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3010644254709982
+  },
+  {
+    "cell": "C462",
+    "row": 28,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9288351316559922
+  },
+  {
+    "cell": "C443",
+    "row": 28,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0379578673679184
+  },
+  {
+    "cell": "C404",
+    "row": 28,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7249073953246592
+  },
+  {
+    "cell": "C242",
+    "row": 28,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.686601052644491
+  },
+  {
+    "cell": "C359",
+    "row": 28,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C131",
+    "row": 29,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0106959498452797
+  },
+  {
+    "cell": "C135",
+    "row": 29,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6174584837006267
+  },
+  {
+    "cell": "C146",
+    "row": 29,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5565395820371886
+  },
+  {
+    "cell": "C151",
+    "row": 29,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.229054922492826
+  },
+  {
+    "cell": "C397",
+    "row": 29,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9383089254734824
+  },
+  {
+    "cell": "C220",
+    "row": 29,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8341752045509024
+  },
+  {
+    "cell": "C136",
+    "row": 29,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C455",
+    "row": 29,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.3836429034291085
+  },
+  {
+    "cell": "C425",
+    "row": 29,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4429657625106502
+  },
+  {
+    "cell": "C81",
+    "row": 29,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5919334943037013
+  },
+  {
+    "cell": "C333",
+    "row": 29,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9075483567067115
+  },
+  {
+    "cell": "C213",
+    "row": 29,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.479172537483982
+  },
+  {
+    "cell": "C209",
+    "row": 29,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C495",
+    "row": 29,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.7478537599512265
+  },
+  {
+    "cell": "C335",
+    "row": 29,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1617730429397795
+  },
+  {
+    "cell": "C407",
+    "row": 29,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1713050033129813
+  },
+  {
+    "cell": "C470",
+    "row": 29,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1538197811641253
+  },
+  {
+    "cell": "C480",
+    "row": 29,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.048514167101053
+  },
+  {
+    "cell": "C200",
+    "row": 29,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6481706763092143
+  },
+  {
+    "cell": "C229",
+    "row": 29,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1371659604980722
+  },
+  {
+    "cell": "C31",
+    "row": 29,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6813068763231476
+  },
+  {
+    "cell": "C286",
+    "row": 29,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.552353897361319
+  },
+  {
+    "cell": "C313",
+    "row": 29,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3918061490406659
+  },
+  {
+    "cell": "C94",
+    "row": 29,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.239030066272333
+  },
+  {
+    "cell": "C287",
+    "row": 29,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.41503203726595694
+  },
+  {
+    "cell": "C66",
+    "row": 30,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5994163512783658
+  },
+  {
+    "cell": "C166",
+    "row": 30,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117323966848007
+  },
+  {
+    "cell": "C58",
+    "row": 30,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9845371304009674
+  },
+  {
+    "cell": "C120",
+    "row": 30,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9755761526430395
+  },
+  {
+    "cell": "C465",
+    "row": 30,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6329699426764762
+  },
+  {
+    "cell": "C269",
+    "row": 30,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5371545181606578
+  },
+  {
+    "cell": "C106",
+    "row": 30,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3250140700584182
+  },
+  {
+    "cell": "C35",
+    "row": 30,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3679635036239648
+  },
+  {
+    "cell": "C344",
+    "row": 30,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.834265779003145
+  },
+  {
+    "cell": "C344",
+    "row": 30,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.834265779003145
+  },
+  {
+    "cell": "C342",
+    "row": 30,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4231853387068254
+  },
+  {
+    "cell": "C428",
+    "row": 30,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.114085804371014
+  },
+  {
+    "cell": "C190",
+    "row": 30,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.374305568498542
+  },
+  {
+    "cell": "C146",
+    "row": 30,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.5565395820371886
+  },
+  {
+    "cell": "C92",
+    "row": 30,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9515289426499351
+  },
+  {
+    "cell": "C451",
+    "row": 30,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.572380338919073
+  },
+  {
+    "cell": "C197",
+    "row": 30,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.696304774118615
+  },
+  {
+    "cell": "C326",
+    "row": 30,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.005620994020047232
+  },
+  {
+    "cell": "C272",
+    "row": 30,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6879957526552465
+  },
+  {
+    "cell": "C292",
+    "row": 30,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9936811174450857
+  },
+  {
+    "cell": "C319",
+    "row": 30,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7740799125225644
+  },
+  {
+    "cell": "C196",
+    "row": 30,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4507165211047017
+  },
+  {
+    "cell": "C327",
+    "row": 30,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4673590653307439
+  },
+  {
+    "cell": "C327",
+    "row": 30,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4673590653307439
+  },
+  {
+    "cell": "C126",
+    "row": 30,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7197540221278861
+  },
+  {
+    "cell": "C297",
+    "row": 30,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4204315075216956
+  },
+  {
+    "cell": "C493",
+    "row": 30,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1341558161658036
+  },
+  {
+    "cell": "C263",
+    "row": 30,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C84",
+    "row": 31,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4858674408885788
+  },
+  {
+    "cell": "C111",
+    "row": 31,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.395783162190559
+  },
+  {
+    "cell": "C498",
+    "row": 31,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4303134510309554
+  },
+  {
+    "cell": "C340",
+    "row": 31,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7565717438154571
+  },
+  {
+    "cell": "C340",
+    "row": 31,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7565717438154571
+  },
+  {
+    "cell": "C35",
+    "row": 31,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3679635036239648
+  },
+  {
+    "cell": "C419",
+    "row": 31,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3549193890599822
+  },
+  {
+    "cell": "C50",
+    "row": 31,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5082155532185738
+  },
+  {
+    "cell": "C105",
+    "row": 31,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6276877557529101
+  },
+  {
+    "cell": "C365",
+    "row": 31,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1436767926798512
+  },
+  {
+    "cell": "C233",
+    "row": 31,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8187316602466264
+  },
+  {
+    "cell": "C384",
+    "row": 31,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0853153160563682
+  },
+  {
+    "cell": "C134",
+    "row": 31,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.039304061520585
+  },
+  {
+    "cell": "C139",
+    "row": 31,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.510015230288181
+  },
+  {
+    "cell": "C296",
+    "row": 31,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.611468880034771
+  },
+  {
+    "cell": "C303",
+    "row": 31,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.167814351138183
+  },
+  {
+    "cell": "C438",
+    "row": 31,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.36734257577053
+  },
+  {
+    "cell": "C291",
+    "row": 31,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3183680531838582
+  },
+  {
+    "cell": "C290",
+    "row": 31,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.238595889018678
+  },
+  {
+    "cell": "C372",
+    "row": 32,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C14",
+    "row": 32,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.06771640820946867
+  },
+  {
+    "cell": "C234",
+    "row": 32,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5038824652524968
+  },
+  {
+    "cell": "C426",
+    "row": 32,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117372509597729
+  },
+  {
+    "cell": "C68",
+    "row": 32,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0991419902482313
+  },
+  {
+    "cell": "C269",
+    "row": 32,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5371545181606578
+  },
+  {
+    "cell": "C170",
+    "row": 32,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.986239702896383
+  },
+  {
+    "cell": "C358",
+    "row": 32,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1858651908547317
+  },
+  {
+    "cell": "C390",
+    "row": 32,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5136597777856017
+  },
+  {
+    "cell": "C1",
+    "row": 32,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.68929845971974
+  },
+  {
+    "cell": "C236",
+    "row": 32,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7896893299480093
+  },
+  {
+    "cell": "C294",
+    "row": 32,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7377574755267996
+  },
+  {
+    "cell": "C406",
+    "row": 32,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3075006083688874
+  },
+  {
+    "cell": "C323",
+    "row": 32,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.908595884079463
+  },
+  {
+    "cell": "C432",
+    "row": 32,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.846293915918109
+  },
+  {
+    "cell": "C463",
+    "row": 32,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5432677104653745
+  },
+  {
+    "cell": "C278",
+    "row": 32,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6632427776280214
+  },
+  {
+    "cell": "C283",
+    "row": 32,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0176737666644522
+  },
+  {
+    "cell": "C42",
+    "row": 32,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.261262278509199
+  },
+  {
+    "cell": "C434",
+    "row": 32,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.16805184136181361
+  },
+  {
+    "cell": "C290",
+    "row": 32,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.238595889018678
+  },
+  {
+    "cell": "C266",
+    "row": 32,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.203010514457417
+  },
+  {
+    "cell": "C149",
+    "row": 32,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5463407280432224
+  },
+  {
+    "cell": "C270",
+    "row": 32,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2824176171787658
+  },
+  {
+    "cell": "C276",
+    "row": 32,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.080604527186101
+  },
+  {
+    "cell": "C29",
+    "row": 32,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3106788865077696
+  },
+  {
+    "cell": "C162",
+    "row": 32,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C176",
+    "row": 33,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1457055733932344
+  },
+  {
+    "cell": "C421",
+    "row": 33,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7316977061812442
+  },
+  {
+    "cell": "C119",
+    "row": 33,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1585463355933618
+  },
+  {
+    "cell": "C244",
+    "row": 33,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9104560081623463
+  },
+  {
+    "cell": "C169",
+    "row": 33,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8795004546986819
+  },
+  {
+    "cell": "C24",
+    "row": 33,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6928284560878915
+  },
+  {
+    "cell": "C380",
+    "row": 33,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.230567879169652
+  },
+  {
+    "cell": "C144",
+    "row": 33,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C358",
+    "row": 33,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1858651908547317
+  },
+  {
+    "cell": "C6",
+    "row": 33,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.1593434078060758
+  },
+  {
+    "cell": "C307",
+    "row": 33,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6372293524208947
+  },
+  {
+    "cell": "C80",
+    "row": 33,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.32831552090549
+  },
+  {
+    "cell": "C8",
+    "row": 33,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.397773201232825
+  },
+  {
+    "cell": "C77",
+    "row": 33,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7094611216107056
+  },
+  {
+    "cell": "C445",
+    "row": 33,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.66302465266781
+  },
+  {
+    "cell": "C237",
+    "row": 33,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.444473732561045
+  },
+  {
+    "cell": "C209",
+    "row": 33,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C34",
+    "row": 33,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.96342374546315
+  },
+  {
+    "cell": "C37",
+    "row": 33,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.19607781609707653
+  },
+  {
+    "cell": "C424",
+    "row": 33,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4634520046511728
+  },
+  {
+    "cell": "C457",
+    "row": 33,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3952377767645148
+  },
+  {
+    "cell": "C406",
+    "row": 33,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3075006083688874
+  },
+  {
+    "cell": "C383",
+    "row": 33,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.8464199021665824
+  },
+  {
+    "cell": "C226",
+    "row": 33,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C66",
+    "row": 34,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5994163512783658
+  },
+  {
+    "cell": "C281",
+    "row": 34,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8917500269589722
+  },
+  {
+    "cell": "C151",
+    "row": 34,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.229054922492826
+  },
+  {
+    "cell": "C75",
+    "row": 34,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6199406999845507
+  },
+  {
+    "cell": "C73",
+    "row": 34,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8035031751781663
+  },
+  {
+    "cell": "C164",
+    "row": 34,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.680636056593431
+  },
+  {
+    "cell": "C160",
+    "row": 34,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3982254274125131
+  },
+  {
+    "cell": "C249",
+    "row": 34,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.168614113930257
+  },
+  {
+    "cell": "C9",
+    "row": 34,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9462539238739447
+  },
+  {
+    "cell": "C494",
+    "row": 34,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.235394922518713
+  },
+  {
+    "cell": "C211",
+    "row": 34,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9514912327884195
+  },
+  {
+    "cell": "C352",
+    "row": 34,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7464945569912055
+  },
+  {
+    "cell": "C140",
+    "row": 34,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.24921193637074812
+  },
+  {
+    "cell": "C74",
+    "row": 34,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6247182287534043
+  },
+  {
+    "cell": "C293",
+    "row": 34,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.509874199544333
+  },
+  {
+    "cell": "C342",
+    "row": 34,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4231853387068254
+  },
+  {
+    "cell": "C423",
+    "row": 34,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1761906751234528
+  },
+  {
+    "cell": "C167",
+    "row": 34,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5912737824554566
+  },
+  {
+    "cell": "C76",
+    "row": 34,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.931728730454037
+  },
+  {
+    "cell": "C374",
+    "row": 34,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0892345128724665
+  },
+  {
+    "cell": "C227",
+    "row": 34,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2134768837500585
+  },
+  {
+    "cell": "C173",
+    "row": 34,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6683630495056092
+  },
+  {
+    "cell": "C2",
+    "row": 34,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9591485565103343
+  },
+  {
+    "cell": "C304",
+    "row": 34,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4814715793425783
+  },
+  {
+    "cell": "C414",
+    "row": 34,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C302",
+    "row": 34,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6250543656479822
+  },
+  {
+    "cell": "C194",
+    "row": 35,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C45",
+    "row": 35,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.3924484773984631
+  },
+  {
+    "cell": "C306",
+    "row": 35,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5150413481322775
+  },
+  {
+    "cell": "C188",
+    "row": 35,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9086235501254905
+  },
+  {
+    "cell": "C172",
+    "row": 35,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.523150237899233
+  },
+  {
+    "cell": "C202",
+    "row": 35,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8495008170150873
+  },
+  {
+    "cell": "C337",
+    "row": 35,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9677389235524972
+  },
+  {
+    "cell": "C19",
+    "row": 35,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5015110989699383
+  },
+  {
+    "cell": "C338",
+    "row": 35,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.827412598129431
+  },
+  {
+    "cell": "C205",
+    "row": 35,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4006845130695695
+  },
+  {
+    "cell": "C436",
+    "row": 35,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.367563174521244
+  },
+  {
+    "cell": "C233",
+    "row": 35,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8187316602466264
+  },
+  {
+    "cell": "C5",
+    "row": 35,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.24921193637074812
+  },
+  {
+    "cell": "C316",
+    "row": 35,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2629952456700995
+  },
+  {
+    "cell": "C308",
+    "row": 35,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3530067521898066
+  },
+  {
+    "cell": "C69",
+    "row": 35,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2485630303260895
+  },
+  {
+    "cell": "C190",
+    "row": 35,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.374305568498542
+  },
+  {
+    "cell": "C128",
+    "row": 35,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.197413806847386
+  },
+  {
+    "cell": "C334",
+    "row": 35,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7678976553996845
+  },
+  {
+    "cell": "C4",
+    "row": 35,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6638657786715627
+  },
+  {
+    "cell": "C447",
+    "row": 35,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.100779929906107
+  },
+  {
+    "cell": "C350",
+    "row": 35,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5968150366884487
+  },
+  {
+    "cell": "C463",
+    "row": 35,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5432677104653745
+  },
+  {
+    "cell": "C16",
+    "row": 35,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.489581026849661
+  },
+  {
+    "cell": "C446",
+    "row": 35,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.46831380928436317
+  },
+  {
+    "cell": "C57",
+    "row": 36,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.25695147073362123
+  },
+  {
+    "cell": "C320",
+    "row": 36,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7871491625377154
+  },
+  {
+    "cell": "C27",
+    "row": 36,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.375547621054915
+  },
+  {
+    "cell": "C133",
+    "row": 36,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.1377000272713182
+  },
+  {
+    "cell": "C100",
+    "row": 36,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3413016390752581
+  },
+  {
+    "cell": "C413",
+    "row": 36,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2473239071083484
+  },
+  {
+    "cell": "C393",
+    "row": 36,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4314331986105997
+  },
+  {
+    "cell": "C456",
+    "row": 36,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.489235930428641
+  },
+  {
+    "cell": "C436",
+    "row": 36,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.367563174521244
+  },
+  {
+    "cell": "C264",
+    "row": 36,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C67",
+    "row": 36,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2285281175581377
+  },
+  {
+    "cell": "C268",
+    "row": 36,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8560431056618878
+  },
+  {
+    "cell": "C79",
+    "row": 36,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4179520567284052
+  },
+  {
+    "cell": "C223",
+    "row": 36,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.263132481664691
+  },
+  {
+    "cell": "C223",
+    "row": 36,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.263132481664691
+  },
+  {
+    "cell": "C392",
+    "row": 36,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.4861888296094214
+  },
+  {
+    "cell": "C109",
+    "row": 36,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3059407310847324
+  },
+  {
+    "cell": "C10",
+    "row": 36,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8127780656483402
+  },
+  {
+    "cell": "C183",
+    "row": 36,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.863981889062259
+  },
+  {
+    "cell": "C411",
+    "row": 36,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4239525192717448
+  },
+  {
+    "cell": "C97",
+    "row": 36,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5536806184616092
+  },
+  {
+    "cell": "C336",
+    "row": 36,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C483",
+    "row": 36,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.620659035253538
+  },
+  {
+    "cell": "C91",
+    "row": 36,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6269096452169673
+  },
+  {
+    "cell": "C127",
+    "row": 36,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.263355148875018
+  },
+  {
+    "cell": "C214",
+    "row": 36,
+    "x_before": 25.0,
+    "x_after": 25.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4358215873508144
+  },
+  {
+    "cell": "C430",
+    "row": 36,
+    "x_before": 26.0,
+    "x_after": 26.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C317",
+    "row": 36,
+    "x_before": 27.0,
+    "x_after": 27.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7978391687174361
+  },
+  {
+    "cell": "C372",
+    "row": 37,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0,
+    "activity": 0
+  },
+  {
+    "cell": "C204",
+    "row": 37,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.2782617898261655
+  },
+  {
+    "cell": "C330",
+    "row": 37,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.8019855739996098
+  },
+  {
+    "cell": "C255",
+    "row": 37,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3195899979944694
+  },
+  {
+    "cell": "C132",
+    "row": 37,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6598401332712327
+  },
+  {
+    "cell": "C25",
+    "row": 37,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9397128222780913
+  },
+  {
+    "cell": "C300",
+    "row": 37,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2575391922451504
+  },
+  {
+    "cell": "C258",
+    "row": 37,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.704710230603355
+  },
+  {
+    "cell": "C312",
+    "row": 37,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.887540533945254
+  },
+  {
+    "cell": "C224",
+    "row": 37,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0083954147093683
+  },
+  {
+    "cell": "C390",
+    "row": 37,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.5136597777856017
+  },
+  {
+    "cell": "C311",
+    "row": 37,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5046727755714269
+  },
+  {
+    "cell": "C464",
+    "row": 37,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.603361483793469
+  },
+  {
+    "cell": "C221",
+    "row": 37,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.2952035840392604
+  },
+  {
+    "cell": "C191",
+    "row": 37,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0518625939375656
+  },
+  {
+    "cell": "C64",
+    "row": 37,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3634075575968096
+  },
+  {
+    "cell": "C5",
+    "row": 37,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.24921193637074812
+  },
+  {
+    "cell": "C166",
+    "row": 37,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9117323966848007
+  },
+  {
+    "cell": "C274",
+    "row": 37,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.71027849707066
+  },
+  {
+    "cell": "C280",
+    "row": 37,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.14169124677944256
+  },
+  {
+    "cell": "C389",
+    "row": 37,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.47913068291095273
+  },
+  {
+    "cell": "C275",
+    "row": 37,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.3441405362079295
+  },
+  {
+    "cell": "C356",
+    "row": 37,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7409431429607584
+  },
+  {
+    "cell": "C422",
+    "row": 37,
+    "x_before": 23.0,
+    "x_after": 23.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.403053478649166
+  },
+  {
+    "cell": "C450",
+    "row": 37,
+    "x_before": 24.0,
+    "x_after": 24.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.010551268584567564
+  },
+  {
+    "cell": "C415",
+    "row": 37,
+    "x_before": 22.0,
+    "x_after": 22.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0128692423364862
+  },
+  {
+    "cell": "C387",
+    "row": 38,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.18108030167669864
+  },
+  {
+    "cell": "C371",
+    "row": 38,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3254825977645575
+  },
+  {
+    "cell": "C132",
+    "row": 38,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.6598401332712327
+  },
+  {
+    "cell": "C420",
+    "row": 38,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.32792609177182397
+  },
+  {
+    "cell": "C262",
+    "row": 38,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.655678302346433
+  },
+  {
+    "cell": "C28",
+    "row": 38,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.00130934555761
+  },
+  {
+    "cell": "C252",
+    "row": 38,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.664292294231176
+  },
+  {
+    "cell": "C148",
+    "row": 38,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7711135674400718
+  },
+  {
+    "cell": "C376",
+    "row": 38,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9694124097767209
+  },
+  {
+    "cell": "C116",
+    "row": 38,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.8237794401856707
+  },
+  {
+    "cell": "C487",
+    "row": 38,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.6488821558510263
+  },
+  {
+    "cell": "C374",
+    "row": 38,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.0892345128724665
+  },
+  {
+    "cell": "C308",
+    "row": 38,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.3530067521898066
+  },
+  {
+    "cell": "C26",
+    "row": 38,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.40195579393954917
+  },
+  {
+    "cell": "C472",
+    "row": 38,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4507252983618226
+  },
+  {
+    "cell": "C77",
+    "row": 38,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7094611216107056
+  },
+  {
+    "cell": "C278",
+    "row": 38,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.6632427776280214
+  },
+  {
+    "cell": "C373",
+    "row": 38,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0353992922193018
+  },
+  {
+    "cell": "C182",
+    "row": 38,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.578898109877759
+  },
+  {
+    "cell": "C98",
+    "row": 38,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.646760034625438
+  },
+  {
+    "cell": "C315",
+    "row": 38,
+    "x_before": 20.0,
+    "x_after": 20.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.176563168998798
+  },
+  {
+    "cell": "C163",
+    "row": 38,
+    "x_before": 21.0,
+    "x_after": 21.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9614517636572604
+  },
+  {
+    "cell": "C40",
+    "row": 39,
+    "x_before": 0.0,
+    "x_after": 0.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7764908385609193
+  },
+  {
+    "cell": "C112",
+    "row": 39,
+    "x_before": 1.0,
+    "x_after": 1.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6906473705383513
+  },
+  {
+    "cell": "C93",
+    "row": 39,
+    "x_before": 2.0,
+    "x_after": 2.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.5334695694767881
+  },
+  {
+    "cell": "C394",
+    "row": 39,
+    "x_before": 3.0,
+    "x_after": 3.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.7182937108425611
+  },
+  {
+    "cell": "C148",
+    "row": 39,
+    "x_before": 4.0,
+    "x_after": 4.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7711135674400718
+  },
+  {
+    "cell": "C459",
+    "row": 39,
+    "x_before": 5.0,
+    "x_after": 5.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.4772449976567037
+  },
+  {
+    "cell": "C99",
+    "row": 39,
+    "x_before": 6.0,
+    "x_after": 6.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.6225012306359794
+  },
+  {
+    "cell": "C67",
+    "row": 39,
+    "x_before": 7.0,
+    "x_after": 7.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 3.2285281175581377
+  },
+  {
+    "cell": "C108",
+    "row": 39,
+    "x_before": 8.0,
+    "x_after": 8.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.9131751418384821
+  },
+  {
+    "cell": "C441",
+    "row": 39,
+    "x_before": 9.0,
+    "x_after": 9.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.9527711668772954
+  },
+  {
+    "cell": "C310",
+    "row": 39,
+    "x_before": 10.0,
+    "x_after": 10.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.9029021775741386
+  },
+  {
+    "cell": "C205",
+    "row": 39,
+    "x_before": 11.0,
+    "x_after": 11.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.4006845130695695
+  },
+  {
+    "cell": "C345",
+    "row": 39,
+    "x_before": 12.0,
+    "x_after": 12.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.280965348086373
+  },
+  {
+    "cell": "C83",
+    "row": 39,
+    "x_before": 13.0,
+    "x_after": 13.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.211689722900701
+  },
+  {
+    "cell": "C362",
+    "row": 39,
+    "x_before": 14.0,
+    "x_after": 14.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 2.321218593735354
+  },
+  {
+    "cell": "C3",
+    "row": 39,
+    "x_before": 15.0,
+    "x_after": 15.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.4791611091062964
+  },
+  {
+    "cell": "C210",
+    "row": 39,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.7251329532445967
+  },
+  {
+    "cell": "C139",
+    "row": 39,
+    "x_before": 17.0,
+    "x_after": 17.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.510015230288181
+  },
+  {
+    "cell": "C150",
+    "row": 39,
+    "x_before": 18.0,
+    "x_after": 18.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.0228538361043316
+  },
+  {
+    "cell": "C405",
+    "row": 39,
+    "x_before": 19.0,
+    "x_after": 19.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 1.264897147888583
+  },
+  {
+    "cell": "C199",
+    "row": 39,
+    "x_before": 16.0,
+    "x_after": 16.0,
+    "crit": 0.0,
+    "bit": 0.0,
+    "activity": 0.18387758443569968
+  }
+]

@@ -1,0 +1,1 @@
+go to benchmarks use powershell use py benchmark_bitdrop.py
